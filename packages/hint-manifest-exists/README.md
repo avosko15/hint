@@ -6,14 +6,14 @@ file is not provided.
 ## Why is this important?
 
 The web app manifest file constitutes a standard centralized place
-to put metadata about your web application, and providing it:
+to put metadata about your web application, such as such as its name, icons, and other properties. By providing this information in a standardized format, the manifest file helps browsers easily identify and display information about your web app. A good maifest file:
 
-* informs browsers (and possible [others][windows]) where to look
+* Informs browsers (and possible [others][windows]) where to look
   for information about your web app, information that they may need
-  in different contexts (e.g. what icon and name should be used if
-  your web app is added to the home screen)
+  in different contexts. An example of this is what icon and name should be used if
+  your web app is added to the home screen
 
-* is an essential piece in the context of progressive web apps,
+* Is an essential piece in the context of progressive web apps,
   being one of the signals used by some browsers (e.g. [Chrome][chrome],
   [Opera][opera], [Samsung Internet][samsung internet]) in deciding if
   they will show the add to home screen prompt to users
@@ -26,8 +26,8 @@ This hint checks if:
   (i.e. the page contains a single, valid declaration such as:
   `<link rel="manifest" href="site.webmanifest">`)
 
-* The specified web app manifest file is accessible (i.e. requesting
-  it doesn’t result in a `404`, `500`, etc.)
+* The specified web app manifest file is accessible, like requesting
+  it doesn’t result in a `404`, `500`, etc.
 
 ### Examples that **trigger** the hint
 

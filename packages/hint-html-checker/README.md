@@ -5,7 +5,7 @@
 
 ## Why is this important?
 
-> Serving valid HTML has been commonly overlooked these days.
+> Serving valid HTML is commonly overlooked these days.
 > By running the HTML documents through a checker, it’s easier to catch
 > unintended mistakes which might have otherwise been missed.
 > Adhering to the W3C’s standards has a lot to offer for both the

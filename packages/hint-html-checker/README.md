@@ -5,13 +5,16 @@
 
 ## Why is this important?
 
-> Serving valid HTML nowadays have been commonly overlooked these days.
+> Serving valid HTML has been commonly overlooked these days.
 > By running the HTML documents through a checker, it’s easier to catch
 > unintended mistakes which might have otherwise been missed.
-> Adhering to the W3C’s standards has a lot to offer to both the
+> Adhering to the W3C’s standards has a lot to offer for both the
 > developers and the web users: It provides better browser compatibility,
 > helps to avoid potential problems with accessibility/usability,
-> and makes it easier for future maintenance.
+> and makes it easier for future maintenance. Additionally valid HTML can
+> help search engines better understand the content of a website,
+> this can help boost a sites search engine ranking!
+>
 >
 > The Nu Html Checker(v.Nu) serves as the backend of
 > [html5.validator.nu][html5 validator], and

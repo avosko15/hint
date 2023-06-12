@@ -3,6 +3,8 @@
 A connector that uses [puppeteer][puppeteer]
 to communicate with the browsers in `webhint`.
 
+This connector supports various settings, including authentication, browser selection, headless mode, handling of HTTP errors, puppeteer launch options, and waiting strategies. All properties in the options are optional.
+
 ## Installation
 
 This package is installed automatically when adding webhint to your project

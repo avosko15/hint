@@ -1,6 +1,6 @@
 # jsdom (`@hint/connector-jsdom`)
 
-A connector to use [jsdom][jsdom] in `webhint`. Jsdom is a JavaScript implementation of the W3C DOM (Document Object Model) that allows you to parse and manipulate HTML documents programmatically within Node.js.
+A connector to use [jsdom][jsdom] in `webhint`. Jsdom is a JavaScript implementation of the W3C Document Object Model(DOM) that allows you to parse and manipulate HTML documents programmatically within Node.js.
 
 ## Installation
 

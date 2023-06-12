@@ -2,7 +2,7 @@
 
 `image-optimization-cloudinary` uses the [Cloudinary][cloudinary]
 service to analyze your images and see if there could be size savings
-on them.
+on them. Image optimazation is crucial because by reducing the size of images users get better and faster experiences websites.
 
 **Note:** To use this hint you will need to have an account in this
 service and configure it to use those credentials via the
@@ -66,7 +66,7 @@ as the following in the [`.hintrc`][hintrc] file:
 ```
 
 The `threshold` value will be used for the savings per image, and the
-total possible savings.
+total possible savings. threshold represents the minimum savings required per image or in total for the hint to report an issue.
 
 ### Examples that **trigger** the hint
 

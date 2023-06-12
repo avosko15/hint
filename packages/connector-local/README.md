@@ -3,6 +3,7 @@
 A local connector to analyze the local files in your project
 with `webhint`.
 
+
 ## Installation
 
 This package is installed automatically when adding webhint to your project
